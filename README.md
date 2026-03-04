@@ -22,13 +22,11 @@ Top-level block diagram showing the integration of frequency dividers, counters,
 
 User Interface: Using switches for brightness control and push-buttons for Start/Stop/Reset.
 
-💻 Technical Implementation
+## Tools & Technologies
 
-FPGA
-Hardware Description Language: VHDL .
-Platform: Altera Quartus Prime & DE0 Development Board .
-BCD Counter
-7-Segment Decoder
+- FPGA
+- VHDL
+- Altera Quartus Prime & DE0 Development Board
 
 ---
 **Course:** Analog Electronic Circuits | **Institution:** Ruppin Academic Center
