@@ -16,13 +16,14 @@ Visual LED Feedback: Green LEDs toggle every second during active measurement to
 
 📸 Visual Gallery
 
-The system in action, displaying elapsed time on the 7-segment displays.
+The system in action:
 
-Top-level block diagram showing the integration of frequency dividers, counters, and the display controller.
+https://github.com/user-attachments/assets/ad099a38-a2ec-46a6-bc27-d78f2fcf59e8
 
-User Interface: Using switches for brightness control and push-buttons for Start/Stop/Reset.
+Block system:
 
-## Tools & Technologies
+## Tools & Technologies<img width="1135" height="523" alt="Screenshot 2026-03-04 at 16 53 47" src="https://github.com/user-attachments/assets/32c0e5ba-0eb5-4eae-a6ef-e32d8286f5bf" />
+
 
 - FPGA
 - VHDL
