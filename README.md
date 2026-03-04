@@ -22,9 +22,9 @@ https://github.com/user-attachments/assets/ad099a38-a2ec-46a6-bc27-d78f2fcf59e8
 
 Block system:
 
-## Tools & Technologies<img width="1135" height="523" alt="Screenshot 2026-03-04 at 16 53 47" src="https://github.com/user-attachments/assets/32c0e5ba-0eb5-4eae-a6ef-e32d8286f5bf" />
+<img width="1135" height="523" alt="Screenshot 2026-03-04 at 16 53 47" src="https://github.com/user-attachments/assets/32c0e5ba-0eb5-4eae-a6ef-e32d8286f5bf" />
 
-
+## Tools & Technologies
 - FPGA
 - VHDL
 - Altera Quartus Prime & DE0 Development Board
