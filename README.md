@@ -12,7 +12,7 @@ Reaction Time Mode: High-resolution measurement (0.01s precision) that active as
 
 - Adjustable Display Brightness: control via Switches 6-9 to adjust the 7-segment display intensity based on the environment.
 
-- Visual LED Feedback: Green LEDs toggle during active measurement to provide real-time status indication.
+- Visual LED Feedback: Green LEDs showing active measurement to provide real-time status indication.
 
 📸 Visual Gallery
 
