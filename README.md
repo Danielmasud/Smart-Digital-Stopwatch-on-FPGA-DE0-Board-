@@ -29,3 +29,6 @@ Hardware Description Language: VHDL .
 Platform: Altera Quartus Prime & DE0 Development Board .
 BCD Counter
 7-Segment Decoder
+
+---
+**Course:** Analog Electronic Circuits | **Institution:** Ruppin Academic Center
