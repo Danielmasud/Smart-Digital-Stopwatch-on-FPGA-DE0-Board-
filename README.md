@@ -30,4 +30,4 @@ Block system:
 - Altera Quartus Prime & DE0 Development Board
 
 ---
-**Course:** Analog Electronic Circuits | **Institution:** Ruppin Academic Center
+**Course:** Digital Logic Design | **Institution:** Ruppin Academic Center
