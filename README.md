@@ -1,10 +1,9 @@
-⏱️ Smart Digital Stopwatch on FPGA (DE0 Board)
-
-📝 Project Overview
+# ⏱️ Smart Digital Stopwatch on FPGA (DE0 Board)
+## Overview
 
 This project involves the design and implementation of a modular, multi-mode digital stopwatch on an Altera DE0 FPGA board. The system is designed for high-precision time measurement, ranging from daily activities to experiments requiring millisecond accuracy.
 
-🎯 Key Features
+## Key Features
 
 - Dual Timing Modes:
 Standard Mode: Measures time in seconds and minutes.
@@ -14,7 +13,7 @@ Reaction Time Mode: High-resolution measurement (0.01s precision) that active as
 
 - Visual LED Feedback: Green LEDs showing active measurement to provide real-time status indication.
 
-📸 Visual Gallery
+## 📸 Gallery
 
 The system in action:
 
