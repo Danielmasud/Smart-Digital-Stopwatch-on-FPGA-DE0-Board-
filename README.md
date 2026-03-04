@@ -23,6 +23,7 @@ Top-level block diagram showing the integration of frequency dividers, counters,
 User Interface: Using switches for brightness control and push-buttons for Start/Stop/Reset.
 
 💻 Technical Implementation
+
 FPGA
 Hardware Description Language: VHDL .
 Platform: Altera Quartus Prime & DE0 Development Board .
